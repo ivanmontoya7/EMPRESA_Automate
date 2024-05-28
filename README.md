@@ -1,1 +1,1 @@
-# EMPRESA_Automate
+Códigos creados para la automatización de tareas.
