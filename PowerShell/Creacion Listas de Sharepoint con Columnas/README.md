@@ -1,6 +1,6 @@
 Crea listas de SharePoint con columnas de diferentes tipos  
 Necesitamos:  
->-insertar el link del site (ej: https://dominio.sharepoint.com/sites/nombre_site)  
+>-Insertar el link del site (ej: https://dominio.sharepoint.com/sites/nombre_site)  
 >-Cantidad de listas que el sistema creará  
 >-Nombre de estas listas de uno en uno (insertar nombre y presionar enter)  
   
